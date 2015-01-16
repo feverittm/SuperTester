@@ -1,0 +1,178 @@
+Netlist
+
+Exported from SuperTester-v07.brd at 6/26/2013 11:32:32 AM
+
+EAGLE Version 6.4.0 Copyright (c) 1988-2013 CadSoft
+
+Net      Part     Pad
+
+ACT1     JP7      P$3
+         S4       3
+         S4       4
+         U1       2
+
+ACT2     JP7      P$2
+         S5       3
+         S5       4
+         U1       3
+
+AIN0     R4       2
+         U1       23
+
+AIN1     JP5      6
+         U1       24
+
+AIN2     R1       1
+         R2       2
+         U1       25
+
+AREF     C4       1
+         U1       21
+
+BRIGHT   R8       1
+         U2       15
+
+CON      R5       1
+         R6       2
+         U2       3
+
+D4       U1       6
+         U2       11
+
+D5       U1       11
+         U2       12
+
+D6       U1       12
+         U2       13
+
+D7       U1       13
+         U2       14
+
+DIN1     JP3      5
+         JP4      3
+         R9       2
+         U1       4
+
+DIN2     JP3      6
+         JP4      5
+         R10      2
+         U1       18
+
+EN       U1       15
+         U2       6
+
+GND      C1       2
+         C2       2
+         C3       -
+         C4       2
+         IC1      1
+         JP1      2
+         JP2      1
+         JP2      2
+         JP3      1
+         JP3      2
+         JP4      1
+         JP4      2
+         JP5      1
+         JP5      2
+         JP6      1
+         JP7      P$5
+         JP7      P$6
+         R10      1
+         R2       1
+         R4       1
+         R6       1
+         R9       1
+         S2       1
+         S2       2
+         S3       1
+         S3       2
+         S4       1
+         S4       2
+         S5       1
+         S5       2
+         U1       22
+         U1       8
+         U2       1
+         U2       10
+         U2       16
+         U2       5
+         U2       7
+         U2       8
+         U2       9
+         Y1       2
+
+NEXT     S3       3
+         S3       4
+         U1       19
+
+PREV     R7       1
+         S2       3
+         S2       4
+         U1       26
+
+PWMOUT   JP2      6
+         U1       5
+
+RESET    C5       1
+         R3       1
+         U1       1
+
+RS       U1       14
+         U2       4
+
+RST#     C5       2
+         JP7      P$1
+
+SCALED_AIN JP5      5
+         R1       2
+
+SCL      JP6      3
+         U1       28
+
+SDA      JP6      2
+         U1       27
+
+SPIKE_FWD JP2      5
+         JP4      6
+         U1       16
+
+SPIKE_REV JP4      4
+         U1       17
+
+VB       D1       A
+         S1       3
+
+VCC      C1       1
+         C2       1
+         C3       +
+         IC1      2
+         JP2      3
+         JP2      4
+         JP3      3
+         JP3      4
+         JP5      3
+         JP5      4
+         JP6      4
+         JP7      P$4
+         R3       2
+         R4       3
+         R5       2
+         R7       2
+         R8       2
+         U1       20
+         U1       7
+         U2       2
+
+VIN      D1       C
+         IC1      3
+
+V_BATT   JP1      1
+         S1       2
+
+XTAL1    U1       9
+         Y1       1
+
+XTAL2    U1       10
+         Y1       3
+
